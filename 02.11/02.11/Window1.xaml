@@ -1,0 +1,26 @@
+﻿<Window x:Class="_02._11.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_02._11"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <ComboBox x:Name="file_type" Text="Тип файла" HorizontalAlignment="Left" Margin="479,259,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Content=".txt"/>
+            <ComboBoxItem Content=".docx"/>
+            <ComboBoxItem Content=".pdf"/>
+            <ComboBoxItem Content=".xlsx"/>
+            <ComboBoxItem Content=".png"/>
+            <ComboBoxItem Content=".mp3"/>
+            <ComboBoxItem Content=".mp4"/>
+            <ComboBoxItem Content=".vav"/>
+            <ComboBoxItem Content=".mov"/>
+        </ComboBox>
+        <Label x:Name="file_list" Content="Файлы" HorizontalAlignment="Left" Margin="81,64,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="name_folder" HorizontalAlignment="Left" Margin="479,217,0,0" TextWrapping="Wrap" Text="Имя папки" VerticalAlignment="Top" Width="120" GotFocus="name_folder_GotFocus" LostFocus="name_folder_LostFocus"/>
+        <Button x:Name="search_folder" Content="Поиск" HorizontalAlignment="Left" Margin="520,306,0,0" VerticalAlignment="Top" Click="search_folder_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+C:\Users\roma_\source\repos\02.11\02.11\bin\Debug\02.11.exe.config
+C:\Users\roma_\source\repos\02.11\02.11\bin\Debug\02.11.exe
+C:\Users\roma_\source\repos\02.11\02.11\bin\Debug\02.11.pdb
+C:\Users\roma_\source\repos\02.11\02.11\obj\Debug\02.11.csproj.AssemblyReference.cache
+C:\Users\roma_\source\repos\02.11\02.11\obj\Debug\MainWindow.g.cs
+C:\Users\roma_\source\repos\02.11\02.11\obj\Debug\Window1.g.cs
+C:\Users\roma_\source\repos\02.11\02.11\obj\Debug\App.g.cs
+C:\Users\roma_\source\repos\02.11\02.11\obj\Debug\02.11_MarkupCompile.cache
+C:\Users\roma_\source\repos\02.11\02.11\obj\Debug\02.11_MarkupCompile.lref
+C:\Users\roma_\source\repos\02.11\02.11\obj\Debug\MainWindow.baml
+C:\Users\roma_\source\repos\02.11\02.11\obj\Debug\Window1.baml
+C:\Users\roma_\source\repos\02.11\02.11\obj\Debug\02.11.g.resources
+C:\Users\roma_\source\repos\02.11\02.11\obj\Debug\_02._11.Properties.Resources.resources
+C:\Users\roma_\source\repos\02.11\02.11\obj\Debug\02.11.csproj.GenerateResource.cache
+C:\Users\roma_\source\repos\02.11\02.11\obj\Debug\02.11.csproj.CoreCompileInputs.cache
+C:\Users\roma_\source\repos\02.11\02.11\obj\Debug\02.11.exe
+C:\Users\roma_\source\repos\02.11\02.11\obj\Debug\02.11.pdb
