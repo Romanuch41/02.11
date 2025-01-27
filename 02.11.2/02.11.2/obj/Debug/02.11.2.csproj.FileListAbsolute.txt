@@ -1,0 +1,17 @@
+C:\Users\roma_\source\repos\02.11.2\02.11.2\bin\Debug\02.11.2.exe.config
+C:\Users\roma_\source\repos\02.11.2\02.11.2\bin\Debug\02.11.2.exe
+C:\Users\roma_\source\repos\02.11.2\02.11.2\bin\Debug\02.11.2.pdb
+C:\Users\roma_\source\repos\02.11.2\02.11.2\obj\Debug\02.11.2.csproj.AssemblyReference.cache
+C:\Users\roma_\source\repos\02.11.2\02.11.2\obj\Debug\MainWindow.g.cs
+C:\Users\roma_\source\repos\02.11.2\02.11.2\obj\Debug\App.g.cs
+C:\Users\roma_\source\repos\02.11.2\02.11.2\obj\Debug\02.11.2_MarkupCompile.cache
+C:\Users\roma_\source\repos\02.11.2\02.11.2\obj\Debug\02.11.2_MarkupCompile.lref
+C:\Users\roma_\source\repos\02.11.2\02.11.2\obj\Debug\MainWindow.baml
+C:\Users\roma_\source\repos\02.11.2\02.11.2\obj\Debug\02.11.2.g.resources
+C:\Users\roma_\source\repos\02.11.2\02.11.2\obj\Debug\_02._11._2.Properties.Resources.resources
+C:\Users\roma_\source\repos\02.11.2\02.11.2\obj\Debug\02.11.2.csproj.GenerateResource.cache
+C:\Users\roma_\source\repos\02.11.2\02.11.2\obj\Debug\02.11.2.csproj.CoreCompileInputs.cache
+C:\Users\roma_\source\repos\02.11.2\02.11.2\obj\Debug\02.11.2.exe
+C:\Users\roma_\source\repos\02.11.2\02.11.2\obj\Debug\02.11.2.pdb
+C:\Users\roma_\source\repos\02.11.2\02.11.2\obj\Debug\Window_edit_file.g.cs
+C:\Users\roma_\source\repos\02.11.2\02.11.2\obj\Debug\Window_edit_file.baml
