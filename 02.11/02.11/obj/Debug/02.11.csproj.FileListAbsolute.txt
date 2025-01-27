@@ -15,3 +15,5 @@ C:\Users\roma_\source\repos\02.11\02.11\obj\Debug\02.11.csproj.GenerateResource.
 C:\Users\roma_\source\repos\02.11\02.11\obj\Debug\02.11.csproj.CoreCompileInputs.cache
 C:\Users\roma_\source\repos\02.11\02.11\obj\Debug\02.11.exe
 C:\Users\roma_\source\repos\02.11\02.11\obj\Debug\02.11.pdb
+C:\Users\roma_\source\repos\02.11\02.11\obj\Debug\window_component.g.cs
+C:\Users\roma_\source\repos\02.11\02.11\obj\Debug\window_component.baml

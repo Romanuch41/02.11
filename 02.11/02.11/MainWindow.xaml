@@ -5,13 +5,30 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_02._11"
         mc:Ignorable="d"
-        Title="MainWindow" Height="248" Width="374">
+        Title="MainWindow" Height="422" Width="670">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="285*"/>
             <ColumnDefinition Width="89*"/>
         </Grid.ColumnDefinitions>
         <Button x:Name="search" Content="Поиск" HorizontalAlignment="Left" Margin="42,46,0,0" VerticalAlignment="Top" Click="search_Click"/>
+        <ListBox x:Name="list_price" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="192,44,192,226"/>
+        <ComboBox x:Name="list_component" HorizontalAlignment="Left" Margin="349,46,0,0" VerticalAlignment="Top" Width="120" LostFocus="list_component_LostFocus">
+            <ComboBoxItem Content="Processor"/>
+            <ComboBoxItem Content="graphics card"/>
+            <ComboBoxItem Content="RAM"/>
+            <ComboBoxItem Content="hard disk"/>
+            <ComboBoxItem Content="ssd"/>
+            <ComboBoxItem Content="CPU cooler"/>
+            <ComboBoxItem Content="monitor"/>
+            <ComboBoxItem Content="keyboard"/>
+            <ComboBoxItem Content="mous"/>
+
+        </ComboBox>
+        <Label x:Name="full_price" Content="full_price: 0" HorizontalAlignment="Left" Margin="192,0,0,0" VerticalAlignment="Center"/>
+        <Button x:Name="components_form" Content="Components" HorizontalAlignment="Left" Margin="255,225,0,0" VerticalAlignment="Top" Click="components_form_Click"/>
+        <Label x:Name="price_component" Content="price:" HorizontalAlignment="Left" Margin="496,46,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Button x:Name="add_component" Content="add" HorizontalAlignment="Left" Margin="349,83,0,0" VerticalAlignment="Top" Click="add_component_Click"/>
 
     </Grid>
 </Window>
